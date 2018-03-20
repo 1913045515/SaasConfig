@@ -1,4 +1,6 @@
 # SaasConfig
-SaasConfig
 saas系统的配置文件地址
-分别有生产地址和测试地址（目前正在测试阶段）
+spring.cloud.config.profile
+dev开发环境配置文件
+test测试环境
+pro正式环境
